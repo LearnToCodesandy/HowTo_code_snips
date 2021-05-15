@@ -3,8 +3,6 @@
 ## list of How to snips
 ---------------------------
 
-* [ ] Icon Bar
-* [ ] Menu Icon
 * [ ] Accordion
 * [ ] tabs
 * [ ] Navigation menu
